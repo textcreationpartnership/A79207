@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The demands of his gracious Maiesty the King of Great Brittain, to the grand seignior or Emperour of Turkey sent by the Lord General Montague, with his Lordships proposals to the governour of Algier, the answer thereunto, and the manner of the treaty before that great and now conquered city. With a true relation of the great and bloudy fight between the English and the Turks, the dividing of his Majesties Royal Navy into several squadrons, by the victorious Earl of Sandwich, and ever renowned Sr. John Lawson, the battering down of half the city, and all the castle walls, the dismounting of the Turkish cannon, the sinking and burning of 18 great ships, with above a thousand piece of ordnance, the great slaughter made by the English fire-ships, the redeeming of many hundred poor captives and Christian slaves, and a true and perfect relation of the losse on both sides, with the number killed and taken prisoners.</title>
+            <author>Charles II, King of England, 1630-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79207</idno>
+            <idno type="STC">Wing C3007B</idno>
+            <idno type="STC">ESTC R224941</idno>
+            <idno type="EEBO-CITATION">99897210</idno>
+            <idno type="PROQUEST">99897210</idno>
+            <idno type="VID">135722</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79207)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135722)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2474:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The demands of his gracious Maiesty the King of Great Brittain, to the grand seignior or Emperour of Turkey sent by the Lord General Montague, with his Lordships proposals to the governour of Algier, the answer thereunto, and the manner of the treaty before that great and now conquered city. With a true relation of the great and bloudy fight between the English and the Turks, the dividing of his Majesties Royal Navy into several squadrons, by the victorious Earl of Sandwich, and ever renowned Sr. John Lawson, the battering down of half the city, and all the castle walls, the dismounting of the Turkish cannon, the sinking and burning of 18 great ships, with above a thousand piece of ordnance, the great slaughter made by the English fire-ships, the redeeming of many hundred poor captives and Christian slaves, and a true and perfect relation of the losse on both sides, with the number killed and taken prisoners.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Capitulations --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Turkey --  Early works to 1800.</term>
+               <term>Turkey --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135722:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:135722:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>THE DEMANDS Of his Gracious Maieſty The KING OF <hi>GREAT BRITTAIN,</hi> To the grand Seignior or Emperour of <hi>Turkey,</hi> ſent by the Lord General <hi>Montague,</hi> with his Lordſhips propoſals to the Governour of <hi>Algier,</hi> the An<g ref="char:EOLhyphen"/>ſwer thereunto, and the manner of the Treaty before that great and now conquered City.</p>
+            <p>With a true Relation of the great and bloudy fight between the <hi>Engliſh</hi> and the <hi>Turks,</hi> the dividing of his Majeſties Royal Navy into ſeveral Squadrons, by the Victorious Earl of <hi>Sandwich,</hi> and ever Renowned Sr. <hi>John Lawſon,</hi> the battering down of half the City, and all the Caſtle Walls, the diſmounting of the <hi>Turkiſh</hi> Cannon, the ſinking and burning of 18 great ſhips, with above a thou<g ref="char:EOLhyphen"/>ſand piece of Ordnance, the great ſlaughter made by the <hi>Engliſh</hi> fire-ſhips, the redeeming of many hundred poor Captives and Chriſtian ſlaves, And a true and per<g ref="char:EOLhyphen"/>fect Relation of the loſſe on both ſides, with the number killed and taken Priſoners.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Horton,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135722:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb n="3" facs="tcp:135722:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>A Relation of the Victory obtained by the <hi>Engliſh</hi> Fleet againſt the <hi>Turks</hi> at <hi>Algeir,</hi> under the Conduct of the Earl of <hi>Sandwich,</hi> as it is confirmed from <hi>France</hi> and <hi>Holland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Earl of <hi>Sandwich</hi> Admiral of the <hi>Engliſh</hi> Fleet having made ſail to <hi>Ali<g ref="char:EOLhyphen"/>cant</hi> in <hi>Spain,</hi> ſtayed ſome few dayes there, to take in freſh waters and other neceſſaries, on the 7th. of <hi>Auguſt</hi> laſt paſt, ſet thence forward again with the whole Fleet, which being arrived afore <hi>Algiers</hi> with a forrable wind, his Lordſhip ſent to the Gover<g ref="char:EOLhyphen"/>nour of the place to give him notice of his arrival, deſiring that the <hi>Engliſh</hi> Conſul with ſome Deputies might be ſent on board of him, to whom his Lord<g ref="char:EOLhyphen"/>ſhip would intimate the cauſe of his coming thither. Thoſe of <hi>Algiers</hi> on the 14. ſent accordingly their Deputies and the Engliſh Conſul on board of the Admiral, deſiring to know his Lordſhips intentions, who after a ſhort rehearſal to them of the agreement and Peace formerly made betwixt the Government
+<pb n="4" facs="tcp:135722:3"/>
+               <!-- PDF PAGE 21 -->of <hi>England</hi> and that of <hi>Algiers,</hi> wherein it was par<g ref="char:EOLhyphen"/>ticularly agreed that no <hi>Engliſh</hi> ſhips at Sea ſhould be moleſted by any men of war, or veſſels of <hi>Algier,</hi> gave them likewiſe to underſtand, that of late the above-mentioned agreement had been in many wayes by them violated, navigation diſturbed, ſhips taken from the Subjects of <hi>England,</hi> and many an <hi>Engliſh</hi> man made ſlave by them; Which agreement, though ſo highly infringed, his Lordſhip neverthe<g ref="char:EOLhyphen"/>leſſe proffered to be renewed and confirmed by him upon condition, that the Government of <hi>Algiers</hi> ſhould be obliged to repair the loſſes and dammages the <hi>Engliſh</hi> Nation had ſuffered, and to reſtore the Ships, Merchandizes, and all <hi>Engliſh</hi> they had made ſlaves, and henceforth not to moleſt any <hi>Engliſh</hi> ſhip, or to ſearch it, to take away and commodities or people out of them, or, that in default thereof his Lordſhip had orders to denounce a war to them.</p>
+            <p>The Deputies having underſtood his Lordſhips deſire, promiſed to make a report thereof to the Government, and to return their anſwer without fail on the fifteenth.</p>
+            <p>On the 13th. three other Deputies came back to the <hi>Engliſh</hi> Fleet, where a Council of war being cal<g ref="char:EOLhyphen"/>led together, they declared that they thought them<g ref="char:EOLhyphen"/>ſelves not at all obliged to reſtore to the King of <hi>England</hi> either ſhips, or goods, or ſlaves, and parti<g ref="char:EOLhyphen"/>cularly that the before-mentioned agreement by the death of <hi>Cromwell</hi> was become void and null, during whoſe Government they had not in the leaſt indam<g ref="char:EOLhyphen"/>maged the <hi>Engliſh</hi> Nation, and ſhould not now have offered any thing againſt them, if not the laſt Admi<g ref="char:EOLhyphen"/>ral of <hi>England,</hi> who had agreed with them upon
+<pb n="5" facs="tcp:135722:3"/>
+               <!-- PDF PAGE 21 -->more particular conditions, had voluntarily con<g ref="char:EOLhyphen"/>ſented to the ſearching of <hi>Engliſh</hi> ſhips, whom thoſe of <hi>Algiers</hi> could meet at Sea, and the taking out of them any goods belonging to other Nations, toge<g ref="char:EOLhyphen"/>ther with the People ſubject to other forreign Prin<g ref="char:EOLhyphen"/>ces or States their pretended Enemies; Common reaſon therefore did ſufficiently dictate, that not onely ſuch goods and perſons were lawful prize, but likewiſe ſhip and all, for according to the tenets of their <hi>Alcoran</hi> they counted all thoſe friends ene<g ref="char:EOLhyphen"/>mies who gave the leaſt aſſiſtance to their enemies, ſo that they would maintain they had not violated the Agreement made with <hi>Cromwell,</hi> but the <hi>Engliſh</hi> them<g ref="char:EOLhyphen"/>ſelves, who countenanced and tranſported their ene<g ref="char:EOLhyphen"/>mies over Sea to the great prejudice of thoſe who were to purſue them. Concerning the Admirals threats they did not greatly value them, adding, that in regard it was againſt the cuſtom of the Go<g ref="char:EOLhyphen"/>vernment of <hi>Algiers,</hi> that a fleet of men of war ſhould come into their road, and afore their City, to the ſlighting of the reſpect due to an ever victorious <hi>Turkiſh</hi> Emperour, it would be proper for the <hi>Engliſh</hi> Admiral to depart thence with his whole Fleet with<g ref="char:EOLhyphen"/>in three hours, otherwiſe they in the name of the Grand Seignior and their Government declared him Enemy.</p>
+            <p>This inſolent Anſwer was not well reliſhed by his Lordſhip, nor the Officers of the Fleet, who reſolved to reduce this neſt of Pyrates (being grown to that heighth of pride by their good ſucceſſes againſt the Chriſtians) either by fair or forcible means to rea<g ref="char:EOLhyphen"/>ſon, and to give ſatisfaction to the demands of his Majeſty the King of <hi>Great Brittain.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:135722:4"/>
+               <!-- PDF PAGE 22 -->
+The Deputies thereupon returned back to the City, but his Lordſhip not to looſe any time, gave immediately orders for attaining the Enemy, eſpe<g ref="char:EOLhyphen"/>cially for the firing and ruining of 30 of their beſt Pyrate ſhips. His Lordſhip himſelf undertook to batter the Caſtle with the Cannon of his ſhip, with 6 others, the reſt were divided in two Squadrons, who were to ply upon the City, to frighten the People within, as in effect they did; But the wind turning Northward hindred the reſolution taken, <hi>viz.</hi> to deſtroy all the Pyrate ſhips, for the <hi>Engliſh</hi> againſt their will and orders were by the wind forced too near the ſhore, that they could not mannage their ſhips as they ought, which cauſed them for the pre<g ref="char:EOLhyphen"/>ſent to give over the enterprize, receiving no grea<g ref="char:EOLhyphen"/>ter hurt then the diſabling of two Frigots, which were ſent to <hi>Spain</hi> to be there repaired. The wind continued ſtill tempeſtuous that day and the follow<g ref="char:EOLhyphen"/>ing, which gave the Infidels in the City much time and opportunity to put themſelves into a better po<g ref="char:EOLhyphen"/>ſture of defence. On the ſixteenth at night the wind came fair again, which no ſooner perceived, but the <hi>Engliſh</hi> Admiral gave order for a ſecond at<g ref="char:EOLhyphen"/>tempt, dividing the Fleet into ſeveral Squadrons, with five great fire-ſhips, and ſome ten or twelve rowing ſloopes, full of fire-works and burning ma<g ref="char:EOLhyphen"/>terials, to row under the force of the ſmoak to the Ships and Galleys of the Enemy, and if poſſible, to ſet them on fire. On the ſeventeenth in the mor<g ref="char:EOLhyphen"/>ning at break of day, the <hi>Engliſh</hi> Fleet began again to pour broad-ſides from all the Ships upon the Caſtle, for the wind was ſo favourable, that all the Frigots each after another paſſing and repaſſing pre<g ref="char:EOLhyphen"/>ſently
+<pb n="7" facs="tcp:135722:4"/>
+               <!-- PDF PAGE 22 -->
+fired, which cauſed the Enemy within to fire all the Cannon of the Caſtle at once upon each ſingle Ship, but if more together to fire but once or twice at them; This plying to and fro of the <hi>Engliſh</hi> Frigots, and continual firing upon the City, laſted 4. whole hours, until the Walls were battered all in pieces, and diſmounted of all the Cannon which be<g ref="char:EOLhyphen"/>fore indangered the <hi>Engliſh</hi> ſhips, who had 60. men killed, and five ſhips very much torn and diſabled. The Caſtle being thus diſmantled, the Fleet carrying the afore-mentioned fire-ſhips in the midſt, ſet di<g ref="char:EOLhyphen"/>rectly upon the ſhips of the Infidels, on which having bravely fired of all ſides with much advantage from the wind, 18. Capital Ships of the Enemy were within a few hours wholly deſtroyed, which was moſt formidable to behold, not ſo much for the ſhips ſake or the Infidels that were in them, but for the lamentation and out-cry of the Chriſtian ſlaves who were likewiſe there, of whom yet 1100. were ſaved by the ſloopes and boats that went to fiſh them out of the water, and more might have been ſaved, but as the powder within the <hi>Turkiſh</hi> Ships took fire, it gave ſuch a terrible report that it was not poſſible to come near them; Beſides there 18 Ships three of the beſt Gallyes are likewiſe with men and all burnt and ſent into the Air, the reſt of the Ships had timely weighed Anchor and run cloſe aſhore, where the <hi>Turks</hi> had caſt up a ſmall Retrenchment guarded with 28. pieces of Ordnance, to diſpute the <hi>English</hi> their landing. This Enterprize being after nine hours work happily finiſhed, the Fleet in the after<g ref="char:EOLhyphen"/>noon again began to fire upon the City, and conti<g ref="char:EOLhyphen"/>nued ſo effectually until the eighteenth at night, that
+<pb n="8" facs="tcp:135722:5"/>
+               <!-- PDF PAGE 23 -->
+according to the report of a ſlave that had made his eſcape, more then half the Town was battered down, and the People within extreamly much affrighted. The Lord Admiral intended on the 19th. at night to deſtroy likewiſe with his fire-ſhips the remainder of the <hi>Turkish</hi> Ships, or to fire them with his Cannon, being moreover reſolved not to make any agreement till all the Slaves were ſet at liberty. The effect whereof, and other particulars, we may expect by the firſt conveniency.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135722:5"/>
+            <!-- PDF PAGE 23 -->
+            <pb facs="tcp:135722:6"/>
+            <!-- PDF PAGE 24 -->
+            <pb facs="tcp:135722:6"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
